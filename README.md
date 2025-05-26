@@ -19,4 +19,4 @@ Results You’ll Get:
 - Dynamic Pressure curve – bonus insight.
 
 License & Attribution
-© 2024 Khushi Piparava. For academic or commercial use, please reach out first (krp3505 @ mavs.uta.edu).
+© 2024 Khushi Piparava. For academic or commercial use, please reach out first (krp3505@mavs.uta.edu).
