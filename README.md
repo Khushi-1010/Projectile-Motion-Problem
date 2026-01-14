@@ -33,12 +33,12 @@ The projectile is modeled as a sphere with:
 - Drag coefficient: **cd = 0.82**
 - Profile area: **ar = (6.00225 × 10⁻³)π m²**
 
-## Why This Exists:
+## ❓ Why This Exists:
 - Honors credit ➜ deeper dive – I rebuilt the solver from scratch to explore numerical integrators, Earth-rotation corrections, and a modular plotting pipeline.
 - MATLAB → Python – No license walls; everything runs with nothing more exotic than NumPy/SciPy/Matplotlib.
 - Teaching aid – The code is heavily commented and split into bite-sized functions so classmates (and future students) can compare MATLAB vs Python workflows.
 
-## Results You’ll Get:
+## 🎯 Results You’ll Get:
 - Altitude Above Mean Equator vs Time – obeys the spec’s fonts & tick spacing.
 - 2×2 Displacement suite – East, North, Zenith, and ground-range.
 - 2×2 Velocity suite – same breakdown for speeds.
