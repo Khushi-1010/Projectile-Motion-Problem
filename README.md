@@ -5,7 +5,7 @@ MAE 3405 Flight Dynamics Honors Python Project
 
 You’re looking at a full-Python rewrite of the MAE 3405 “Mighty Mouse” projectile-motion homework. While the standard assignment prescribed MATLAB, this repo delivers the same deliverables—plus a few extras—in an open, reproducible Python package.
 
-## ✅ Original Problem Statement (From Homework #6)
+## ✅ Original Problem Statement 
 
 At a coordinated universal time of **UTC = 2024:02:28:21:00:00**, the students of MAE 3405 launch a prototype version of the **“Mighty Mouse” projectile** from the middle of the **50-yard line of AT&T Stadium**:
 
